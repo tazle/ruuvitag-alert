@@ -1,1 +1,2 @@
-# ruuvitag-alert
+# Alert if RuuviTags aren't sending data
+
